@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ExtraClase_2.dir/main.cpp.o CMakeFiles/ExtraClase_2.dir/CodigoSingleton.cpp.o  -o ExtraClase_2 

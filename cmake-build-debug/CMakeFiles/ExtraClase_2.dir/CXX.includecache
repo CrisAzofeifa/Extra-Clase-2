@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cris/CLionProjects/ExtraClase#2/CodigoSingleton.cpp
+CodigoSingleton.h
+/home/cris/CLionProjects/ExtraClase#2/CodigoSingleton.h
+
+/home/cris/CLionProjects/ExtraClase#2/CodigoSingleton.h
+
+/home/cris/CLionProjects/ExtraClase#2/main.cpp
+iostream
+-
+CodigoSingleton.h
+/home/cris/CLionProjects/ExtraClase#2/CodigoSingleton.h
+iostream
+-
+

@@ -1,0 +1,3 @@
+/home/cris/CLionProjects/ExtraClase#2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cris/CLionProjects/ExtraClase#2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cris/CLionProjects/ExtraClase#2/cmake-build-debug/CMakeFiles/ExtraClase_2.dir
